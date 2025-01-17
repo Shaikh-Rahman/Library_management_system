@@ -16,7 +16,7 @@ Installation:
 
 
 Getting Started:
-1. git clone https://github.com/mdrizwan211/Library_Management_System.git
+1. git clone https://github.com/Shaikh-Rahman/Library_management_system.git
 2. cd src
 3. python app_run.py
 4. go to http://127.0.0.1:5000/ in your browser
